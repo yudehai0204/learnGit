@@ -1,3 +1,10 @@
 learn git  
 dev branch
+<<<<<<< Updated upstream
 fix 
+=======
+text
+create new
+
+safasdfasdfsadf
+>>>>>>> Stashed changes
